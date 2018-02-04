@@ -1,0 +1,3 @@
+# ignore .project created build by HBuilder
+.project
+
